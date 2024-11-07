@@ -1,7 +1,11 @@
 # Modern Flutter Shopping Cart with Provider & Null Safety
 
-![App GIF](assets/screenshots/app.gif)  
+
+---
+
 ![App Screenshot](assets/screenshots/app.png)
+
+---
 
 ## Overview
 
@@ -60,7 +64,22 @@ To run the app on your local environment:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shehryar-dev/Shopping-Cart-APP.git
-   cd your-repo-name
+   ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd Shopping-Cart-APP
+    ```
+
+3. Install dependencies:
+    ```bash
+    flutter pub get
+    ```
+
+4. Run the app:
+    ```bash
+    flutter run
+    ```   
 
 ---
 
